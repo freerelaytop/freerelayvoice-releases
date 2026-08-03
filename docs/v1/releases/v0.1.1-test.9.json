@@ -1,12 +1,20 @@
 {
+  "schema_version": 1,
+  "product": "FreerelayVoice",
   "version": "0.1.1-test.9",
-  "notes": "内部测试：验证升级结果正确记录 Test 通道。",
-  "pub_date": "2026-08-03T15:43:32Z",
-  "platforms": {
+  "channel": "test",
+  "status": "published",
+  "published_at": "2026-08-03T15:43:32Z",
+  "git_tag": "v0.1.1-test.9",
+  "git_commit": "80feb37a37076032d5e4575bae8c4471b1747270",
+  "minimum_system_version": "13.0",
+  "targets": {
     "darwin-aarch64": {
+      "artifact": "FreerelayVoice.app.tar.gz",
+      "sha256": "5e440fdb86bc3fbbe08b37cd3fea9c2f563c72c036a8ab9d54afd356b8a3114f",
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb0FKTXN1R3Y2T3daTDI2RzBoVFNXejFkazhGamRYMGhxY1pBbE9lVmlyTGVNWU93M2dBcjU3dSswRmczL0JLbTVUcnhlSTJUMUZhbFlBaEJZMFNUQlNnaWJjN2gxM2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NzcxNjI1CWZpbGU6RnJlZXJlbGF5Vm9pY2UuYXBwLnRhci5negpsRG1UYnhhYk5JN3NnQ1E1U2tDcStPTU94THpzQnVEc0Q0K0ZRV09IeHVQcmFEQWNsczRhNDR1Y2FCZzIvbXJpSThzMEljTDRXTFpiUmpkdC9PcWdEQT09Cg==",
-      "url": "https://api.github.com/repos/freerelaytop/freerelayvoice-releases/releases/assets/500228250",
       "size_bytes": 34182847
     }
-  }
+  },
+  "notes": "内部测试：验证升级结果正确记录 Test 通道。"
 }
