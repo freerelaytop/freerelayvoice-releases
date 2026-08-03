@@ -1,12 +1,20 @@
 {
+  "schema_version": 1,
+  "product": "FreerelayVoice",
   "version": "0.1.1-test.5",
-  "notes": "内部测试版本：改用 GitHub 官方附件 API 地址，完成真实在线升级闭环。",
-  "pub_date": "2026-08-03T12:08:57Z",
-  "platforms": {
+  "channel": "test",
+  "status": "published",
+  "published_at": "2026-08-03T12:08:57Z",
+  "git_tag": "v0.1.1-test.5",
+  "git_commit": "a68529f1a58ce86b33f12e3a33275849c9896a07",
+  "minimum_system_version": "13.0",
+  "targets": {
     "darwin-aarch64": {
+      "artifact": "FreerelayVoice.app.tar.gz",
+      "sha256": "799a1ac38f10165adf9177c9fdd723fbd2c08583d3fdec2fddae4a5539dd19d3",
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb0FKTXN1R3Y2T3kxWXJuTExLS0x4WVI2OFJFOEczY2QxY1U0N3FBbi9wakpRdVpScm5QOWx1QUppR3Zpc0J0bWRFSXM3a1ZPYnNDdCtvWFdWd1dReTVyL25sMTB1TkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NzU4ODEyCWZpbGU6RnJlZXJlbGF5Vm9pY2UuYXBwLnRhci5negp5TFc1bmdyZnd5eFNvUmlQMmVITHp6WmxyS2N4MGo2MGp0UnNaYnRVM2Q2VU5LSytzSyswZ3hFYTh5bmZGSXFGZm1pQ1JMbUtGaU9hZmFsY3JYQzZDQT09Cg==",
-      "url": "https://api.github.com/repos/freerelaytop/freerelayvoice-releases/releases/assets/500014664",
       "size_bytes": 34180038
     }
-  }
+  },
+  "notes": "内部测试版本：改用 GitHub 官方附件 API 地址，完成真实在线升级闭环。"
 }
