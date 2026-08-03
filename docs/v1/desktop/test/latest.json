@@ -1,0 +1,12 @@
+{
+  "version": "0.1.1-test.4",
+  "notes": "内部测试版本：验证 GitHub Release、Pages 静态清单与 Tauri 在线升级闭环。",
+  "pub_date": "2026-08-03T11:44:46Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb0FKTXN1R3Y2T3hsVytyT0lvb2hDS2MvZ1Bld1kvQ0pDRmlFMlRPaVU0L3lqNDNsSkUzN2Z0QUJzaUo1cHpkOGJRQ2NCYmZDUkZ2MGhiRzdkMzA1YmlEVHRnVDhCU1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NzU3MDc5CWZpbGU6RnJlZXJlbGF5Vm9pY2UuYXBwLnRhci5negovMnRHQzVqSjc3Q0ZVSk4zWThuUkh1UW1Da1h3WmpLRGdMbWFXRXBNa29ZWHUwYmt6YTBML1ZCdmJpQjdtYitXSXlkQnplMG9ZS253SDl4UHVEMHhBQT09Cg==",
+      "url": "https://github.com/freerelaytop/freerelayvoice-releases/releases/download/v0.1.1-test.4/FreerelayVoice.app.tar.gz",
+      "size_bytes": 34179992
+    }
+  }
+}
