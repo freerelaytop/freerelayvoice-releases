@@ -1,12 +1,20 @@
 {
+  "schema_version": 1,
+  "product": "FreerelayVoice",
   "version": "0.1.1-test.14",
-  "notes": "修复静默升级时界面的问题",
-  "pub_date": "2026-08-08T15:59:27Z",
-  "platforms": {
+  "channel": "test",
+  "status": "published",
+  "published_at": "2026-08-08T15:59:27Z",
+  "git_tag": "v0.1.1-test.14",
+  "git_commit": "159bd47de1a8fa7c1cdd5251476b36fa4ac456bb",
+  "minimum_system_version": "13.0",
+  "targets": {
     "darwin-aarch64": {
+      "artifact": "FreerelayVoice.app.tar.gz",
+      "sha256": "cdeef286064a54765a85d8068cb3049c4905731d0a5a0e7222e9f592150e60b2",
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb0FKTXN1R3Y2Ty9FYnhNODRiREdMR2xJVjlQRms4bWdSaVArWm1EaDRwWW5EYUNkbVA2S3c3WDZKYk9LQWF4U095RkRQU1BrSUxPc0l2cjhZbWk1UyszNU9GWGlseVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MjA0NzE1CWZpbGU6RnJlZXJlbGF5Vm9pY2UuYXBwLnRhci5negpOblpSMUhMM0kyWmZOZy85L29oN0Y5YzZKYXBkcWZxT0NWdnRVMUxkRjY4T3hFQzZscEluQTd5bDVCTFozV0dCTHZRM2x4LzVNd3pkY1FvdG5BK05Ddz09Cg==",
-      "url": "https://api.github.com/repos/freerelaytop/freerelayvoice-releases/releases/assets/506529778",
       "size_bytes": 27124620
     }
-  }
+  },
+  "notes": "修复静默升级时界面的问题"
 }
