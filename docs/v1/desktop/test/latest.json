@@ -1,0 +1,12 @@
+{
+  "version": "0.1.1-test.13",
+  "notes": "优化提示词和显示",
+  "pub_date": "2026-08-08T14:31:11Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb0FKTXN1R3Y2T3lmRGRCQmphd3ArRWllY1k1RnMwbXpqenBweEQ0ZXVyNGNJM1NDU0xvT3lET01XQlYxc0ZnNWFWaXBuTlQ1ZnhQSGtkZVgvMUpWck5pOG5GRHRVWndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MTk5MDM5CWZpbGU6RnJlZXJlbGF5Vm9pY2UuYXBwLnRhci5negp5NVhOVTd6bDV3NjJRZkJ4R0dVS05mdTRtZTM4ZUw1QkRmNlJKakZyZE5aQUdxbXlLZUw5UmtVY04vTC9vMmV1ZHBWeWxJTWd0bnZhaGdBUUVpUEhDQT09Cg==",
+      "url": "https://api.github.com/repos/freerelaytop/freerelayvoice-releases/releases/assets/506453765",
+      "size_bytes": 27128621
+    }
+  }
+}

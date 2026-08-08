@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "product": "FreerelayVoice",
+  "version": "0.1.1-test.13",
+  "channel": "test",
+  "status": "published",
+  "published_at": "2026-08-08T14:31:11Z",
+  "git_tag": "v0.1.1-test.13",
+  "git_commit": "9b03aade8b2e73310d71ef20ec446eca1a187ba5",
+  "minimum_system_version": "13.0",
+  "targets": {
+    "darwin-aarch64": {
+      "artifact": "FreerelayVoice.app.tar.gz",
+      "sha256": "069bf8a60dd33279abf2366ebb04b9121cd390cfe23e93ac784c97f35024c764",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb0FKTXN1R3Y2T3lmRGRCQmphd3ArRWllY1k1RnMwbXpqenBweEQ0ZXVyNGNJM1NDU0xvT3lET01XQlYxc0ZnNWFWaXBuTlQ1ZnhQSGtkZVgvMUpWck5pOG5GRHRVWndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MTk5MDM5CWZpbGU6RnJlZXJlbGF5Vm9pY2UuYXBwLnRhci5negp5NVhOVTd6bDV3NjJRZkJ4R0dVS05mdTRtZTM4ZUw1QkRmNlJKakZyZE5aQUdxbXlLZUw5UmtVY04vTC9vMmV1ZHBWeWxJTWd0bnZhaGdBUUVpUEhDQT09Cg==",
+      "size_bytes": 27128621
+    }
+  },
+  "notes": "优化提示词和显示"
+}
